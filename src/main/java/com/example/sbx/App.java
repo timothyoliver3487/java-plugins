@@ -1,5 +1,4 @@
 package com.example.sbx;
-
 import com.sun.jna.Function;
 import com.sun.jna.NativeLibrary;
 
